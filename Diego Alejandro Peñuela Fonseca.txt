@@ -1,0 +1,1 @@
+Usando la interfaz gráfica de github desktop, click en el botòn azul "commit to master" en la parte inferior izquierda de la interfaz
